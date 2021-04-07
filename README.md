@@ -1,2 +1,2 @@
 # Dashboard
-sample dashboard
+Run the template.html in your web browser
